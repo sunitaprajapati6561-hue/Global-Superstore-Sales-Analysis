@@ -9,7 +9,7 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 • Sales performance
 <br>
 • Profitability drivers
-<br
+<br>
 • Customer behavior across regions
 
 <h4>The project integrates:</h4>
@@ -44,7 +44,7 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 | Power BI | Dashboard & Visualization     |
 <br>
 
-<img width="481" height="954" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/76bf5180-def4-41b8-a57c-e5de389f0296" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img width="481" height="954" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/76bf5180-def4-41b8-a57c-e5de389f0296" />
 <h3>🧹 Data Cleaning (Python)</h3>
 • Removed irrelevant column:
 <br>
@@ -126,12 +126,11 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 ┗ 📄 README.md
 <h4>git clone <https://github.com/sunitaprajapati6561-hue/Global-Superstore-Sales-Analysis></h4>
 
-# Run Python notebook for data cleaning
+Run Python notebook for data cleaning
 <br>
-
-# Execute SQL queries for insights
+Execute SQL queries for insights
 <br>
-# Open Power BI dashboard
+Open Power BI dashboard
 <h3>🧑‍💻 Author</h3>
 
 Vikas Prajapati 
