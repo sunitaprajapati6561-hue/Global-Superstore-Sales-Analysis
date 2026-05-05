@@ -134,6 +134,7 @@ Open Power BI dashboard
 <h3>🧑‍💻 Author</h3>
 
 Vikas Prajapati 
+<br>
 Aspiring Data Analyst | Python • SQL • Power BI
 
 
