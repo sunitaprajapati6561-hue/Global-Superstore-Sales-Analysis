@@ -29,7 +29,7 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 • Identify key issues such as low-performing regions and high discount impact
 <br>
 • Provide data-driven recommendations to improve business performance
-
+<h3>🛠️ Tech Stack</h3>
 <h4>| Tool     | Purpose                       |</h4>
 | -------- | ----------------------------- |
 <br>
@@ -111,8 +111,8 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 • 👥 Implement customer loyalty programs
 <br>
 •🌍 Improve performance in low-performing regions (Canada, EMEA)
-
-<h3>📦 Global-Superstore-Analysis</h3>
+<h3>📁 Project Structure</h3>
+<h4>📦 Global-Superstore-Analysis</h4>
  ┣ 📄 Global_Superstore_Dataset.csv
 <br>
 ┣ 📜 Analysis_Notebook.ipynb
@@ -124,6 +124,7 @@ This project delivers a complete end-to-end data analysis solution using the Glo
 ┣ 📊 Presentation.pptx
 <br>
 ┗ 📄 README.md
+<h3>🚀 How to Run</h3>
 <h4>git clone <https://github.com/sunitaprajapati6561-hue/Global-Superstore-Sales-Analysis></h4>
 
 Run Python notebook for data cleaning
